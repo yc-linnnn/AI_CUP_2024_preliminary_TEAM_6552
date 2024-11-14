@@ -50,3 +50,5 @@ Example:
 
 ```bash
 python main.py --question_path ...questions.json --source_path .../reference --output_path ....pred_retrieve.json --use_pre_built_dataset
+
+Again, it is recommened to use -use_pre_built_dataset to save time or it would probably spend 30 extra minutes for processing data.

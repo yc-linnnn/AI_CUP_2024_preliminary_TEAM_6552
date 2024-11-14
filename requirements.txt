@@ -1,0 +1,7 @@
+pymupdf
+pytesseract
+pdf2image
+pdfplumber
+torch==2.3.1
+transformers
+tqdm

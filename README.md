@@ -46,7 +46,7 @@ Run the script by providing the following arguments:
 
 ### Running the Script
 
-Again, it is recommended to use -use_pre_built_dataset to save time or it would probably spend 30 extra minutes for processing data.
+Again, it is recommended to use -use_pre_built_dataset to save time or it would probably spend extra 30+ minutes for processing data.
 
 Example:
 
